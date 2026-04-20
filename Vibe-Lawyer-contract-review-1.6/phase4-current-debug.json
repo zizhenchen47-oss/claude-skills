@@ -1,0 +1,74 @@
+{
+  "summary": {
+    "source": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-szmc2uxs\\counterparty-contract.docx",
+    "instructions": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-szmc2uxs\\template-compare.json",
+    "output": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-szmc2uxs\\counterparty-reviewed.docx",
+    "author": "ģ��ȶԲ���",
+    "date": "2026-04-02T10:00:00Z",
+    "operations_applied": 3,
+    "comments_applied": 3,
+    "revisions_applied": 0,
+    "staging_applied": false,
+    "processing_source": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-szmc2uxs\\counterparty-contract.docx",
+    "processing_instructions": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-szmc2uxs\\template-compare.json",
+    "processing_output": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-szmc2uxs\\counterparty-reviewed.docx",
+    "review_comment_impl": "direct_xml",
+    "xml_editing_locked": true,
+    "template_compare_applied": true,
+    "template_generated_operations": 3,
+    "template_compare_template": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-szmc2uxs\\company-template.docx",
+    "template_compare_focus_topics": [
+      "??",
+      "??",
+      "????"
+    ],
+    "template_compare_matched_topics": [],
+    "template_compare_missing_topics": [],
+    "alignment_reasons_summary": [
+      {
+        "topic_name": "��Ӧ����",
+        "mode": "comment",
+        "alignment_reason": "˳�����ƥ��",
+        "alignment_confidence": 0.0,
+        "source_paragraph_index": 1,
+        "template_paragraph_index": 1,
+        "source_clause_detection": "fallback",
+        "template_clause_detection": "fallback"
+      },
+      {
+        "topic_name": "��Ӧ����",
+        "mode": "comment",
+        "alignment_reason": "˳�����ƥ��",
+        "alignment_confidence": 0.0,
+        "source_paragraph_index": 2,
+        "template_paragraph_index": 2,
+        "source_clause_detection": "fallback",
+        "template_clause_detection": "fallback"
+      },
+      {
+        "topic_name": "��Ӧ����",
+        "mode": "comment",
+        "alignment_reason": "˳�����ƥ��",
+        "alignment_confidence": 0.0,
+        "source_paragraph_index": 3,
+        "template_paragraph_index": 3,
+        "source_clause_detection": "fallback",
+        "template_clause_detection": "fallback"
+      }
+    ],
+    "missing_reasons_summary": [],
+    "review_summary_lines": [
+      "����ģ��ȶԹ�ʶ�� 3 ���Ѷ������0 ��ȱʧ���⡣",
+      "��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��",
+      "��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��",
+      "��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��"
+    ],
+    "review_summary_text": "����ģ��ȶԹ�ʶ�� 3 ���Ѷ������0 ��ȱʧ���⡣\n��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��\n��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��\n��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��"
+  },
+  "visible": [
+    "????",
+    "???????30?????",
+    "????",
+    "?????????????????????????????"
+  ]
+}

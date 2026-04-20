@@ -1,0 +1,19 @@
+﻿{
+  "author": "跨入口一致性测试",
+  "date": "2026-03-19T10:00:00Z",
+  "operations": [
+    {
+      "mode": "revision_comment",
+      "anchor_text": "这是第二段文本内容，需要修改",
+      "replacement_text": "这是第二段文本内容，已经修改完成",
+      "match_type": "exact",
+      "occurrence": 1,
+      "comment": {
+        "问题": "原文表述过于口语化",
+        "风险": "正式合同文本不够严谨",
+        "修改建议": "改为完成态表述",
+        "建议条款": "这是第二段文本内容，已经修改完成"
+      }
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<w:document xmlns:w="http://schemas.openxmlformats.org/wordprocessingml/2006/main">
+  <w:body>
+    <w:p><w:commentRangeStart w:id="0" /><w:del w:id="0" w:author="合同审核AI" w:date="2026-03-19T10:00:00Z"><w:r><w:delText>乙方应在验收后30日内付款。</w:delText></w:r></w:del><w:ins w:id="1" w:author="合同审核AI" w:date="2026-03-19T10:00:00Z"><w:r><w:t>乙方应在验收合格且收到合法有效发票后10个工作日内付款。</w:t></w:r></w:ins><w:commentRangeEnd w:id="0" /><w:r><w:rPr><w:rStyle w:val="CommentReference" /></w:rPr><w:commentReference w:id="0" /></w:r></w:p>
+    <w:p><w:commentRangeStart w:id="1" /><w:r><w:t>本合同适用中华人民共和国法律。</w:t></w:r><w:commentRangeEnd w:id="1" /><w:r><w:rPr><w:rStyle w:val="CommentReference" /></w:rPr><w:commentReference w:id="1" /></w:r></w:p>
+    <w:sectPr />
+  </w:body>
+</w:document>

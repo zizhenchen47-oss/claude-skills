@@ -1,0 +1,10 @@
+﻿{
+  "author": "蓝军测试",
+  "operations": [
+    {
+      "mode": "revision",
+      "location": {"paragraph": 1},
+      "replacement_text": "这是第一段文本内容（PowerShell location 修复验证）"
+    }
+  ]
+}

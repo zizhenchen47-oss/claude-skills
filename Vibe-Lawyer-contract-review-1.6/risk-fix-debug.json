@@ -1,0 +1,275 @@
+[
+  {
+    "step": "base",
+    "ok": true,
+    "value": 2
+  },
+  {
+    "step": "phase2",
+    "ok": true,
+    "value": 2
+  },
+  {
+    "step": "phase3",
+    "ok": true,
+    "value": 2
+  },
+  {
+    "step": "phase4",
+    "ok": true,
+    "value": 3
+  },
+  {
+    "step": "phase5",
+    "ok": true,
+    "value": 7
+  },
+  {
+    "step": "similarity_guard",
+    "ok": true,
+    "value": [
+      {
+        "source": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-8yspklle\\counterparty-contract.docx",
+        "instructions": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-8yspklle\\template-compare.json",
+        "output": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-8yspklle\\counterparty-reviewed.docx",
+        "author": "ģ��ȶԲ���",
+        "date": "2026-04-02T10:00:00Z",
+        "operations_applied": 1,
+        "comments_applied": 1,
+        "revisions_applied": 0,
+        "staging_applied": false,
+        "processing_source": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-8yspklle\\counterparty-contract.docx",
+        "processing_instructions": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-8yspklle\\template-compare.json",
+        "processing_output": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-8yspklle\\counterparty-reviewed.docx",
+        "review_comment_impl": "direct_xml",
+        "xml_editing_locked": true,
+        "template_compare_applied": true,
+        "template_generated_operations": 1,
+        "template_compare_template": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-8yspklle\\company-template.docx",
+        "template_compare_focus_topics": [
+          "??"
+        ],
+        "template_compare_matched_topics": [],
+        "template_compare_missing_topics": [],
+        "alignment_reasons_summary": [
+          {
+            "topic_name": "��Ӧ����",
+            "mode": "comment",
+            "alignment_reason": "˳�����ƥ��",
+            "alignment_confidence": 0.0,
+            "source_paragraph_index": 1,
+            "template_paragraph_index": 1,
+            "source_clause_detection": "fallback",
+            "template_clause_detection": "fallback"
+          }
+        ],
+        "missing_reasons_summary": [],
+        "review_summary_lines": [
+          "����ģ��ȶԹ�ʶ�� 1 ���Ѷ������0 ��ȱʧ���⡣",
+          "��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��"
+        ],
+        "review_summary_text": "����ģ��ȶԹ�ʶ�� 1 ���Ѷ������0 ��ȱʧ���⡣\n��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��"
+      },
+      {
+        "del_count": 0,
+        "ins_count": 0,
+        "comment_range_start_count": 1,
+        "comment_range_end_count": 1,
+        "comment_reference_count": 1,
+        "track_revisions": false,
+        "show_revisions": false,
+        "has_comments_rel": true,
+        "has_settings_rel": true,
+        "has_comments_override": true,
+        "has_settings_override": true,
+        "revision_ids": [],
+        "comment_ids": [
+          0
+        ],
+        "comment_texts": [
+          "问题：对方合同在对应条款条款上的表述与自有模板不一致，当前文本未采用自有模板的风控口径。\n风险：该条款与自有模板存在差异，可能导致风险控制口径不一致。\n修改建议：该条款与自有模板差异较大，建议人工确认交易口径后按自有模板补强。\n建议条款：?????????????????????????????????????????\n修改依据：依据自有模板同主题条款比对结果。"
+        ],
+        "paragraph_texts": [
+          "??? ????",
+          "????????????"
+        ],
+        "visible_paragraph_texts": [
+          "??? ????",
+          "????????????"
+        ],
+        "comment_font_locked": true
+      }
+    ]
+  },
+  {
+    "step": "multi_missing",
+    "ok": true,
+    "value": [
+      {
+        "source": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-pj9oxmkx\\counterparty-contract.docx",
+        "instructions": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-pj9oxmkx\\template-compare.json",
+        "output": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-pj9oxmkx\\counterparty-reviewed.docx",
+        "author": "ģ��ȶԲ���",
+        "date": "2026-04-02T10:00:00Z",
+        "operations_applied": 1,
+        "comments_applied": 1,
+        "revisions_applied": 0,
+        "staging_applied": false,
+        "processing_source": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-pj9oxmkx\\counterparty-contract.docx",
+        "processing_instructions": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-pj9oxmkx\\template-compare.json",
+        "processing_output": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-pj9oxmkx\\counterparty-reviewed.docx",
+        "review_comment_impl": "direct_xml",
+        "xml_editing_locked": true,
+        "template_compare_applied": true,
+        "template_generated_operations": 1,
+        "template_compare_template": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-pj9oxmkx\\company-template.docx",
+        "template_compare_focus_topics": [
+          "??",
+          "??",
+          "????"
+        ],
+        "template_compare_matched_topics": [],
+        "template_compare_missing_topics": [],
+        "alignment_reasons_summary": [
+          {
+            "topic_name": "��Ӧ����",
+            "mode": "comment",
+            "alignment_reason": "˳�����ƥ��",
+            "alignment_confidence": 0.0,
+            "source_paragraph_index": 1,
+            "template_paragraph_index": 1,
+            "source_clause_detection": "fallback",
+            "template_clause_detection": "fallback"
+          }
+        ],
+        "missing_reasons_summary": [],
+        "review_summary_lines": [
+          "����ģ��ȶԹ�ʶ�� 1 ���Ѷ������0 ��ȱʧ���⡣",
+          "��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��"
+        ],
+        "review_summary_text": "����ģ��ȶԹ�ʶ�� 1 ���Ѷ������0 ��ȱʧ���⡣\n��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��"
+      },
+      {
+        "del_count": 0,
+        "ins_count": 0,
+        "comment_range_start_count": 1,
+        "comment_range_end_count": 1,
+        "comment_reference_count": 1,
+        "track_revisions": false,
+        "show_revisions": false,
+        "has_comments_rel": true,
+        "has_settings_rel": true,
+        "has_comments_override": true,
+        "has_settings_override": true,
+        "revision_ids": [],
+        "comment_ids": [
+          0
+        ],
+        "comment_texts": [
+          "问题：对方合同在对应条款条款上的表述与自有模板不一致，当前文本未采用自有模板的风控口径。\n风险：该条款与自有模板存在差异，可能导致风险控制口径不一致。\n修改建议：该条款与自有模板差异较大，建议人工确认交易口径后按自有模板补强。\n建议条款：??????????????????10????????\n修改依据：依据自有模板同主题条款比对结果。"
+        ],
+        "paragraph_texts": [
+          "??? ????",
+          "???????30?????"
+        ],
+        "visible_paragraph_texts": [
+          "??? ????",
+          "???????30?????"
+        ],
+        "comment_font_locked": true
+      }
+    ]
+  },
+  {
+    "step": "multiparagraph_guard",
+    "ok": true,
+    "value": [
+      {
+        "source": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-0zl6msnn\\counterparty-contract.docx",
+        "instructions": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-0zl6msnn\\template-compare.json",
+        "output": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-0zl6msnn\\counterparty-reviewed.docx",
+        "author": "ģ��ȶԲ���",
+        "date": "2026-04-02T10:00:00Z",
+        "operations_applied": 2,
+        "comments_applied": 2,
+        "revisions_applied": 0,
+        "staging_applied": false,
+        "processing_source": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-0zl6msnn\\counterparty-contract.docx",
+        "processing_instructions": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-0zl6msnn\\template-compare.json",
+        "processing_output": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-0zl6msnn\\counterparty-reviewed.docx",
+        "review_comment_impl": "direct_xml",
+        "xml_editing_locked": true,
+        "template_compare_applied": true,
+        "template_generated_operations": 2,
+        "template_compare_template": "C:\\Users\\asterxue\\AppData\\Local\\Temp\\template-compare-case-0zl6msnn\\company-template.docx",
+        "template_compare_focus_topics": [
+          "??"
+        ],
+        "template_compare_matched_topics": [],
+        "template_compare_missing_topics": [],
+        "alignment_reasons_summary": [
+          {
+            "topic_name": "��Ӧ����",
+            "mode": "comment",
+            "alignment_reason": "˳�����ƥ��",
+            "alignment_confidence": 0.0,
+            "source_paragraph_index": 1,
+            "template_paragraph_index": 1,
+            "source_clause_detection": "fallback",
+            "template_clause_detection": "fallback"
+          },
+          {
+            "topic_name": "��Ӧ����",
+            "mode": "comment",
+            "alignment_reason": "˳�����ƥ��",
+            "alignment_confidence": 0.0,
+            "source_paragraph_index": 2,
+            "template_paragraph_index": 2,
+            "source_clause_detection": "fallback",
+            "template_clause_detection": "fallback"
+          }
+        ],
+        "missing_reasons_summary": [],
+        "review_summary_lines": [
+          "����ģ��ȶԹ�ʶ�� 2 ���Ѷ������0 ��ȱʧ���⡣",
+          "��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��",
+          "��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��"
+        ],
+        "review_summary_text": "����ģ��ȶԹ�ʶ�� 2 ���Ѷ������0 ��ȱʧ���⡣\n��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��\n��Ӧ����Ѱ�˳�����ƥ�����comment�����Ŷ� 0.0���Է���ͬʶ��ʽΪ���Ŀ鶵��ʶ��"
+      },
+      {
+        "del_count": 0,
+        "ins_count": 0,
+        "comment_range_start_count": 2,
+        "comment_range_end_count": 2,
+        "comment_reference_count": 2,
+        "track_revisions": false,
+        "show_revisions": false,
+        "has_comments_rel": true,
+        "has_settings_rel": true,
+        "has_comments_override": true,
+        "has_settings_override": true,
+        "revision_ids": [],
+        "comment_ids": [
+          0,
+          1
+        ],
+        "comment_texts": [
+          "问题：对方合同在对应条款条款上的表述与自有模板不一致，当前文本未采用自有模板的风控口径。\n风险：该条款与自有模板存在差异，可能导致风险控制口径不一致。\n修改建议：该条款与自有模板差异较大，建议人工确认交易口径后按自有模板补强。\n建议条款：??????????????????10????????\n修改依据：依据自有模板同主题条款比对结果。",
+          "问题：对方合同在对应条款条款上的表述与自有模板不一致，当前文本未采用自有模板的风控口径。\n风险：该条款与自有模板存在差异，可能导致风险控制口径不一致。\n修改建议：该条款与自有模板差异较大，建议人工确认交易口径后按自有模板补强。\n建议条款：????????????????????????????50%???\n修改依据：依据自有模板同主题条款比对结果。"
+        ],
+        "paragraph_texts": [
+          "??? ????",
+          "???????30?????",
+          "??????????????????"
+        ],
+        "visible_paragraph_texts": [
+          "??? ????",
+          "???????30?????",
+          "??????????????????"
+        ],
+        "comment_font_locked": true
+      }
+    ]
+  }
+]

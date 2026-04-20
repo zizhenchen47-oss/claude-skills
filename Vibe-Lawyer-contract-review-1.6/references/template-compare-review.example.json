@@ -1,0 +1,19 @@
+{
+  "author": "合同审核AI",
+  "date": "2026-04-02T10:00:00Z",
+  "template_compare": {
+    "template_path": "./company-template.docx",
+    "focus_topics": [
+      "付款",
+      "违约责任",
+      "争议解决"
+    ],
+    "max_operations": 6,
+    "mode": "revision_comment",
+    "min_similarity_for_revision": 0.35,
+    "min_alignment_confidence": 0.45,
+    "allow_missing_clause_insert": true,
+    "missing_clause_mode": "revision_comment"
+  },
+  "operations": []
+}
